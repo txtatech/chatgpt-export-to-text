@@ -5,5 +5,5 @@ How to export chat history: https://help.openai.com/en/articles/7260999-how-do-i
 
 NOTE:
 
-If you get the error: "TypeError: can only concatenate str (not "dict") to str" then use the chat_to_text_V1.py script.
+If you get the error: "TypeError: can only concatenate str (not "dict") to str" then use the 'chat_to_text_V1.py' script.
 
